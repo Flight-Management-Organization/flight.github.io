@@ -1,0 +1,11 @@
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\bin\Debug\Flight Management System 2.exe.config
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\bin\Debug\Flight Management System 2.exe
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\bin\Debug\Flight Management System 2.pdb
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight Management System 2.csproj.AssemblyReference.cache
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight_Management_System_2.Form1.resources
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight_Management_System_2.Properties.Resources.resources
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight Management System 2.csproj.GenerateResource.cache
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight Management System 2.exe
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight Management System 2.pdb
+C:\Users\Karl Andrei\source\repos\Flight Management System 2\Flight Management System 2\obj\Debug\Flight_Management_System_2.FlightSearchForm.resources
